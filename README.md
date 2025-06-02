@@ -1,8 +1,3 @@
 # .dotfiles
 
-F0rgeC0des dotfile repo
-
-/.config
-----/nvim
-----/(other)
-/.
+F0rgeC0des (nix testing) dotfile repo
